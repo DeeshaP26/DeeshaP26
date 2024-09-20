@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Deesha Paul.
-- 👀 I’m interested in learning and coding. 
-- 🌱 I’m currently learning C language.
-- 📫 IG Id : deeshapaul_26 
+I am a driven tech enthusiast proficient in C, C++, Python, Java and learning about Machine Learning, Deep Learning and various facets of Artificial Intelligence. A second year B.Tech Computer Science student from Sikkim Manipal Institute of Technology, I aspire to excel in AI and Data Science with a focus on continuous learning and innovation.
 
 <!---
 DeeshaP26/DeeshaP26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
